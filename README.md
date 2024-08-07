@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/TeamInflex/InflexMusicBot/stargazers"><img src="https://img.shields.io/github/stars/TeamInflex/InflexMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/TeamInflex/InflexMusicBot/network/members"> <img src="https://img.shields.io/github/forks/TeamInflex/InflexMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/TeamInflex/InflexMusicBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/wwwlbs22/ARTIST_SIMPL_MUSIC/stargazers"><img src="https://img.shields.io/github/stars/wwwlbs22/ARTIST_SIMPL_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/wwwlbs22/ARTIST_SIMPL_MUSIC/network/members"> <img src="https://img.shields.io/github/forks/wwwlbs22/ARTIST_SIMPL_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/wwwlbs22/ARTIST_SIMPL_MUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/TeamInflex/InflexMusicBot/commits/TeamInflex"> <img src="https://img.shields.io/github/last-commit/TeamInflex/InflexMusicBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/wwwlbs22/ARTIST_SIMPL_MUSIC/commits/TeamInflex"> <img src="https://img.shields.io/github/last-commit/TeamInflex/InflexMusicBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 
@@ -99,7 +99,7 @@ The Inflex Music Bot Offers A Range Of Commands To Enhance Your Music Listening 
 | `/stop`                 | Stop The Bot And Clear The Queue.           |
 | `/queue`                | Display The List Of Songs In The Queue.     |
 
-For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/InflexMusicBot).
+For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/ARTIST_FEELINGS).
 
 ---
 
@@ -108,10 +108,10 @@ For A Full List Of Commands, Use `/help` in [Telegram](https://t.me/InflexMusicB
 Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
 
 <p align="center">
-  <a href="https://telegram.me/InflexSupport">
+  <a href="https://t.me/ARTIST_FEELINGS">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/TeamInflex">
+  <a href="https://t.me/ARTIST_FEELINGS">
     <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
