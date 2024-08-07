@@ -33,7 +33,7 @@
       ─「 <\> Deploy On Heroku <\> 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TeamInflex/InflexMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/wwwlbs22/ARTIST_SIMPL_MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ### 🔧 Quick Setup
@@ -122,7 +122,7 @@ Stay Updated With The Latest Features And Improvements To Inflex Music Bot:
 
 We Welcome Contributions To The Inflex Music Bot Project. If You'd Like To Contribute, Please Follow These Steps :
 
-1. [Fork The Repository.](https://github.com/TeamInflex/InflexMusicBot/fork)
+1. [Fork The Repository.](https://github.com/wwwlbs22/ARTIST_SIMPL_MUSIC/fork)
 2. Create A New Branch With A Meaningful Name.
 3. Make Your Changes And Commit Them With A Descriptive Commit Message.
 4. Open A Pull Request Against Our `main` Branch.
