@@ -1,7 +1,7 @@
 <h1 align="center"> Artist Music Bot <\> </h1>
 
 <p align="center">
-  <img src="https://graph.org/file/9d75bfb77e17b80b3da5b.png" alt="Artist Music Logo" width="640" height="360">
+  <img src="https://telegra.ph/file/c0465bd13875b249a9a8f.jpg" alt="Artist Music Logo" width="640" height="360">
 </p>
 
 <p align="center">
